@@ -1,6 +1,6 @@
 # Team QuaranTwilio
 
-<p align="center"><img src= "https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/71311294_2474403349317232_1072871968568508416_n.png?_nc_cat=106&_nc_sid=85a577&_nc_ohc=e7BnO8eV4LkAX88JW8l&_nc_ht=scontent-sjc3-1.xx&oh=201477dd82f55df1af33e1438484a6a1&oe=5EA57A03"></p>
+<p align="center"><img src= "https://drive.google.com/open?id=1Euu1BWQKtTYDYeJjlY2zjKD-sw6Z4GqP"></p>
 
 
 <p align="center"> :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:</p>
