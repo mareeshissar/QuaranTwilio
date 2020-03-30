@@ -1,7 +1,6 @@
 # Team QuaranTwilio
-![Image description](https://drive.google.com/open?id=1Euu1BWQKtTYDYeJjlY2zjKD-sw6Z4GqP)
 
-<p align="center"><img src= "https://drive.google.com/open?id=1Euu1BWQKtTYDYeJjlY2zjKD-sw6Z4GqP"></p>
+<p align="center"><img src= "https://github.com/mareeshissar/QuaranTwilio/blob/master/615f0b8e1537b63020235418a04c177d.jpg" height="420" width="520"></p>
 
 
 <p align="center"> :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:</p>
